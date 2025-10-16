@@ -1,0 +1,3 @@
+﻿  дз3.cpp
+C:\Users\Малышь_Старк\source\repos\дз3\дз3\дз3.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  дз3.vcxproj -> C:\Users\Малышь_Старк\source\repos\дз3\x64\Debug\дз3.exe
