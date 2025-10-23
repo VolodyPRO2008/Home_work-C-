@@ -9,20 +9,32 @@ int main()
     setlocale(LC_ALL, "Ru");
     //задание 3
 
+<<<<<<< HEAD:10.10.2025/ConsoleApplication1/ConsoleApplication1.cpp
     int a = 0, days, b = 0, c = 0;
+=======
+    int a = 0, days,b = 0,c =0;
+>>>>>>> origin/master:ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
 
 
     cout << "Ввдеите сколько дней улитка ползла: " << endl; cin >> days;
 
+<<<<<<< HEAD:10.10.2025/ConsoleApplication1/ConsoleApplication1.cpp
     for (int i = 0; i < days; i++) {
         a = 15 + b;
         b += 2;
         c += a;
+=======
+    for (int i = 0; i < days; i++ ) {
+       a = 15 + b;
+       b += 2;
+       c += a;
+>>>>>>> origin/master:ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
     }
     cout << c;
 
     //задание 4
 
+<<<<<<< HEAD:10.10.2025/ConsoleApplication1/ConsoleApplication1.cpp
     int a, b = 0;
 
     for (int i = 1; i <= 9; i++) {
@@ -44,6 +56,29 @@ int main()
     }
     else {
         cout << "Учиник не проходит" << endl;
+=======
+    int a,b = 0;
+
+    for (int i = 1; i <= 9;i ++) {
+       cout << "Введите что выпол орел - 0 или решка - 1: "; cin >> a;
+       cout << "Введино чисел " << i << " из 9" << endl;
+       if (a == 1) {
+           b += 1;
+       }
+       else if (a == 0) {
+           b += 0;
+       }
+       else {
+           cout << "Вы не ввели 0 или 1" << endl;
+           break;
+       }
+    }
+    if (b % 2 == 0) {
+       cout << "Учиник проходит" << endl;
+    }
+    else {
+       cout << "Учиник не проходит" << endl;
+>>>>>>> origin/master:ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
     }
 
     //задание 5
