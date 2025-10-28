@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Академия\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Академия\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(58,9): warning C4101: arrey: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Академия\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
