@@ -1,0 +1,14 @@
+﻿  16.03.2026.cpp
+  Book.cpp
+  Computer.cpp
+  House.cpp
+C:\Users\14kal\source\repos\16.03.2026\16.03.2026\House.cpp(40,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Library.cpp
+C:\Users\14kal\source\repos\16.03.2026\16.03.2026\Library.cpp(49,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Processor.cpp
+  Room.cpp
+  Student.cpp
+  University.cpp
+C:\Users\14kal\source\repos\16.03.2026\16.03.2026\University.cpp(49,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  16.03.2026.vcxproj -> C:\Users\14kal\source\repos\16.03.2026\x64\Debug\16.03.2026.exe
