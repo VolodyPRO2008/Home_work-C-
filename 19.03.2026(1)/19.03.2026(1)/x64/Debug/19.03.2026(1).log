@@ -1,0 +1,7 @@
+﻿  19.03.2026(1).cpp
+  Employee.cpp
+  Interfaces.cpp
+  StringHolder.cpp
+C:\Users\14kal\source\repos\19.03.2026(1)\19.03.2026(1)\StringHolder.cpp(35,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  19.03.2026(1).vcxproj -> C:\Users\14kal\source\repos\19.03.2026(1)\x64\Debug\19.03.2026(1).exe
