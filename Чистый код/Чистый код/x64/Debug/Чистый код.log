@@ -1,0 +1,3 @@
+﻿  Чистый код.cpp
+C:\Users\14kal\source\repos\Чистый код\Чистый код\Чистый код.cpp(94,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Чистый код.vcxproj -> C:\Users\14kal\source\repos\Чистый код\x64\Debug\Чистый код.exe
